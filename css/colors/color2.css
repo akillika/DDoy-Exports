@@ -4,7 +4,7 @@ a:focus, a:active, .color,
 .se-icon,
 .con-icon,
 .social-container a {
-    color: #fc4c46;
+    color: #88E764;
 }
 .skillbar-bar,
 .label-primary,
@@ -14,9 +14,9 @@ a:focus, a:active, .color,
 .cbp-l-filters-button .cbp-filter-item-active,
 .label-primary,
 #contact input.submit {
-    background-color: #fc4c46; 
+    background-color: #88E764; 
 }
 
 /* Website highlight color */
-::-moz-selection {background: #fc4c46;color:#fff;text-shadow: none;}
-::selection {background: #fc4c46;color:#ff;text-shadow: none;}
+::-moz-selection {background: #88E764;color:#fff;text-shadow: none;}
+::selection {background: #88E764;color:#ff;text-shadow: none;}
