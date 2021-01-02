@@ -3135,6 +3135,10 @@ select:focus {
 
 /* ==== 24) Footer ==== */
 
+html {
+    scroll-behavior: smooth;
+}
+
 #footer {
     background-color: #121212;
     padding-bottom: 15px;
